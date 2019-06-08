@@ -1,0 +1,79 @@
+{
+  "bscis" : {
+    "semester1" : [
+      ["Computer Fundamentals and Programming (Lab)", 1],
+      ["Computer Fundamentals and Programming (Theory)", 3],
+      ["Electronics (Lab)", 1],
+      ["Electronics (Theory)", 3],
+      ["Islamic Studies", 2],
+      ["Composition and Grammer", 3],
+      ["Calculus and Analytic Geometry", 3],
+      ["Linear Algebra", 2]
+    ],
+    "semester2" : [
+      ["Discrete Mathematics", 3],
+      ["Digital Logic Design (Lab)", 1],
+      ["Digital Logic Design (Theory)", 3],
+      ["Object Oriented Programming (Lab)", 1],
+      ["Object Oriented Programming (Theory)", 3],
+      ["Pakistan Studies", 2],
+      ["Communication Skills", 3],
+      ["Physics-I", 3]
+    ],
+    "semester3" : [
+      ["Computer Organization and Architecture", 3],
+      ["Data Communication and Computer Networks (Lab)", 1],
+      ["Data Communication and Computer Networks (Theory)", 3],
+      ["Data Structures and Algorithms (Lab)", 1],
+      ["Data Structures and Algorithms (Theory)", 3],
+      ["Object Oriented Analysis and Design", 3],
+      ["Professional Ethics", 2],
+      ["Probability and Statistics", 2]
+    ],
+    "semester4" : [
+      ["Analysis of Algorithms", 3],
+      ["Software Engineering", 3],
+      ["Operating Systems", 3],
+      ["Microprocessors and Interfacing (Lab)", 1],
+      ["Microprocessors and Interfacing (Theory)", 2],
+      ["Technical Writing", 3],
+      ["Differential Equations", 2]
+    ],
+    "semester5" : [
+      ["Theory of Automata", 3],
+      ["Introduction to AI", 3],
+      ["Database Systems (Theory)", 3],
+      ["Database Systems (Lab)", 1],
+      ["Computer Security", 3],
+      ["Internet Application Development (Theory)", 2],
+      ["Internet Application Development (Lab)", 1]
+    ],
+    "semester6" : [
+      ["Human Computer Interaction", 3],
+      ["Compiler Construction", 3],
+      ["CS Elective-I", 3],
+      ["CS Elective-II", 3],
+      ["Signals and Image Processing", 3],
+      ["Mobile Application Development (Theory)", 2],
+      ["Mobile Application Development (Lab)", 1]
+    ],
+    "semester7" : [
+      ["Numerical Methods", 3],
+      ["Final Year Project (FYP) (Theory)", 2],
+      ["Final Year Project (FYP) (Lab)", 1],
+      ["CS Elective-III", 3],
+      ["CS Elective-IV", 3],
+      ["University Elective-I", 3]
+    ],
+    "semester8" : [
+      ["University Elective-II", 3],
+      ["Final Year Project (FYP)", 6]
+    ]
+  }
+}
+
+
+
+
+
+

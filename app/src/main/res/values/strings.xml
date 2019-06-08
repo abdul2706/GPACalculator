@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">GPA Calculator</string>
+    <string name="bscis_semester1">BSCIS Semester1</string>
+    <string name="bscis_semester2">BSCIS Semester2</string>
+    <string name="bscis_semester3">BSCIS Semester3</string>
+    <string name="bscis_semester4">BSCIS Semester4</string>
+    <string name="bscis_semester5">BSCIS Semester5</string>
+    <string name="bscis_semester6">BSCIS Semester6</string>
+    <string name="bscis_semester7">BSCIS Semester7</string>
+    <string name="bscis_semester8">BSCIS Semester8</string>
+
+    <string name="info">Select Semester from Menu Item on Top Toolbar.</string>
+    <string name="expected_marks">Expected Marks</string>
+    <string name="calculate">Calculate</string>
+    <string name="add_course">Add Course</string>
+    <string name="about">About</string>
+
+    <!--temporary strings-->
+    <string name="course_title">Course Title</string>
+    <string name="credit_hours">Credit Hours: 3</string>
+    <string name="gpa">GPA</string>
+</resources>
